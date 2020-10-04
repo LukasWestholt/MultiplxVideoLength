@@ -1,0 +1,7 @@
+.idea/
+.history/
+*.mp4
+*.bat
+*.py
+!MultiplxVideoLength.py
+*.exe
